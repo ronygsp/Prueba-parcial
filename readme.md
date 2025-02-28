@@ -1,4 +1,4 @@
-# TelcoAndes: Proyecto de Minería de Datos para Predicción de Facturación
+Proyecto de Minería de Datos para Predicción de Facturación
 
 ## Descripción del Proyecto
 
